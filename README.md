@@ -1,12 +1,21 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/rvcwhitworth/rvcwhitworth.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a software engineer interested in tackling problems on both sides of the stack and have deployed several applications taking advantage of several frameworks and languages. I am currently seeking employment and am always looking for opportunities to connect with other engineers in the community.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
+[**FitHero**](bit.do/FitHero)
+![FitHero Landing](rvcwhitworth.github.io/FitHero.png "FitHero landing")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[**quikmath**](bit.do/quikmath)
+![quikmath game](rvcwhitworth.github.io/quikmath.png "quikmath game in progress")
+
+[**WAYN**](wayn-greenfield.herokuapp.com)
+![wayn event page](rvcwhitworth.github.io/wayn.png "Where Are You Now event creation page")
+
+[**safe.ly**](expo.io/@rvcwhitworth/safely)
+![safely location page](rvcwhitworth.github.io/safely.png "safe.ly location screen")
+
 
 ```markdown
 Syntax highlighted code block
