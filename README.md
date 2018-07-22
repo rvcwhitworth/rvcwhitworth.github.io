@@ -47,7 +47,8 @@ _Automates contact notification when arriving to a destination_
 - Hosted through AWS to provide users with fast and dependable connections
 
 ### Connect with me
-<a href="./Resume.docx" download>Download Resume</a>
+[LinkedIn](https://www.linkedin.com/in/ryanvwhitworth)
 
 [GitHub](https://www.github.com/rvcwhitworth)
 
+<a href="./Resume.docx" download>Download Resume</a>
