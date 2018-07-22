@@ -3,3 +3,8 @@ title: Ryan Whitworth
 description: Software Engineer always looking for more
 plugins:
   - jekyll-seo-tag
+social:
+  name: Ryan Whitworth
+  links:
+    - https://www.linkedin.com/in/ryanvwhitworth
+    - https://www.github.com/rvcwhitworth
