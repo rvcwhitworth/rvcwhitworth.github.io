@@ -22,7 +22,7 @@ _Multiplayer game that helps develop mental math acuity_
 - Integrated Material UI with React to provide a more responsive UI
 - Strengthened app security and saved user session information through Firebase Anonymous Authentication
 
-### [WAYN](https://www.wayn-greenfield.herokuapp.com)
+### [WAYN](http://wayn-greenfield.herokuapp.com)
 
 ![wayn event page](./wayn.png "Where Are You Now event creation page")
 
