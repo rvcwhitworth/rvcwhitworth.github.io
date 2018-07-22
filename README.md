@@ -2,9 +2,9 @@
 
 I am a software engineer interested in tackling problems on both sides of the stack and have deployed several applications taking advantage of several frameworks and languages. I am currently seeking employment and am always looking for opportunities to connect with other engineers in the community.
 
-### Projects
+## Projects
 
-[**FitHero**](http://bit.do/FitHero)
+### [FitHero](http://bit.do/FitHero)
 
 ![FitHero Landing](./FitHero.png "FitHero landing")
 
@@ -13,9 +13,7 @@ _A platform to connect online personal trainers to their clients_
 - Interfaced with Nutritionix API to provide specific macronutrient content for each meal
 - Established separate mobile client using React Native to provide user multiple options to interact with our application
 
-***
-
-[**quikmath**](http://bit.do/quikmath)
+### [quikmath](http://bit.do/quikmath)
 
 ![quikmath game](./quikmath.png "quikmath game in progress")
 
@@ -24,9 +22,7 @@ _Multiplayer game that helps develop mental math acuity_
 - Integrated Material UI with React to provide a more responsive UI
 - Strengthened app security and saved user session information through Firebase Anonymous Authentication
 
-***
-
-[**WAYN**](https://www.wayn-greenfield.herokuapp.com)
+### [WAYN](https://www.wayn-greenfield.herokuapp.com)
 
 ![wayn event page](./wayn.png "Where Are You Now event creation page")
 
@@ -35,9 +31,7 @@ _Provides location, commute, and arrival time of invitees to a created event_
 - Combined React Router and Twilio’s SMS service for instant notification and unique views
 - Maintained a RESTful backend with Node.js and Express to improve information flow, scalability, and organization
 
-***
-
-[**safe.ly**](https://www.expo.io/@rvcwhitworth/safely)
+### [safe.ly](https://www.expo.io/@rvcwhitworth/safely)
 
 ![safely location page](./safely.png "safe.ly location screen")
 
