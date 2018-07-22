@@ -4,18 +4,18 @@ I am a software engineer interested in tackling problems on both sides of the st
 
 ### Projects
 
-[**FitHero**](bit.do/FitHero)
+[**FitHero**](http://bit.do/FitHero)
 
-![FitHero Landing](rvcwhitworth.github.io/FitHero.png "FitHero landing")
+![FitHero Landing](./FitHero.png "FitHero landing")
 
 _A platform to connect online personal trainers to their clients_
 - Used GraphQL to reduce over and under fetching of user data
 - Interfaced with Nutritionix API to provide specific macronutrient content for each meal
 - Established separate mobile client using React Native to provide user multiple options to interact with our application
 
-[**quikmath**](bit.do/quikmath)
+[**quikmath**](http://bit.do/quikmath)
 
-![quikmath game](rvcwhitworth.github.io/quikmath.png "quikmath game in progress")
+![quikmath game](./quikmath.png "quikmath game in progress")
 
 _Multiplayer game that helps develop mental math acuity_
 - Utilized Firebase Realtime Database to improve user social experience
@@ -23,9 +23,9 @@ _Multiplayer game that helps develop mental math acuity_
 - Strengthened app security and saved user session information through Firebase Anonymous Authentication
 
 
-[**WAYN**](wayn-greenfield.herokuapp.com)
+[**WAYN**](https://www.wayn-greenfield.herokuapp.com)
 
-![wayn event page](rvcwhitworth.github.io/wayn.png "Where Are You Now event creation page")
+![wayn event page](./wayn.png "Where Are You Now event creation page")
 
 _Provides location, commute, and arrival time of invitees to a created event_
 - Leveraged Google Maps API to provide highly accurate location data
@@ -33,9 +33,9 @@ _Provides location, commute, and arrival time of invitees to a created event_
 - Maintained a RESTful backend with Node.js and Express to improve information flow, scalability, and organization
 
 
-[**safe.ly**](expo.io/@rvcwhitworth/safely)
+[**safe.ly**](https://www.expo.io/@rvcwhitworth/safely)
 
-![safely location page](rvcwhitworth.github.io/safely.png "safe.ly location screen")
+![safely location page](./safely.png "safe.ly location screen")
 
 _Automates contact notification when arriving to a destination_
 - Created frontend with React Native to take advantage of Android and iOS libraries
@@ -48,4 +48,4 @@ _Automates contact notification when arriving to a destination_
 
 [GitHub](https://www.github.com/rvcwhitworth)
 
-<a href="./Resume.docx" download>Resume</a>
+<a href="./Resume.docx" download>Download Resume</a>
