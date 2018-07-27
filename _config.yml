@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: Ryan Whitworth
 description: Software Engineer always looking for more
+google_analytics: UA-122930667-1
 plugins:
   - jekyll-seo-tag
 social:
