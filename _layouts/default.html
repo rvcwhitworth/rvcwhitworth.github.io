@@ -7,6 +7,17 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="shortcut icon" type="image/png" href="../favicon.ico?">
+    {% if site.google_analytics %}
+      <script>
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('require', 'outboundLinkTracker');
+        ga('require', 'pageVisibilityTracker');
+        ga('send', 'pageview');
+      </script>
+      <script async src="https://www.google-analytics.com/analytics.js"></script>
+      <script async src="../autotrack.js"></script>
+    {% endif %}
 {% seo %}
   </head>
 
@@ -41,17 +52,5 @@
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
-
-    {% if site.google_analytics %}
-      <script>
-        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('require', 'outboundLinkTracker');
-        ga('require', 'pageVisibilityTracker');
-        ga('send', 'pageview');
-      </script>
-      <script async src="https://www.google-analytics.com/analytics.js"></script>
-      <script async src="../autotrack.js"></script>
-    {% endif %}
   </body>
 </html>
