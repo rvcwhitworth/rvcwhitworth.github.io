@@ -4,53 +4,41 @@ I am a software engineer interested in tackling problems on both sides of the st
 
 ## Projects
 
-<details>
-  <summary>
-    ### [FitHero](http://bit.do/FitHero)
-  </summary>
-  ![FitHero Landing](./FitHero.png "FitHero landing")
+### [FitHero](http://bit.do/FitHero)
 
-  _A platform to connect online personal trainers to their clients_
-  - Used GraphQL to reduce over and under fetching of user data
-  - Interfaced with Nutritionix API to provide specific macronutrient content for each meal
-  - Established separate mobile client using React Native to provide user multiple options to interact with our application
-</details>
+![FitHero Landing](./FitHero.png "FitHero landing")
 
-<details>
-  <summary>
-    ### [quikmath](http://bit.do/quikmath)
-  </summary>
-  ![quikmath game](./quikmath.png "quikmath game in progress")
+_A platform to connect online personal trainers to their clients_
+- Used GraphQL to reduce over and under fetching of user data
+- Interfaced with Nutritionix API to provide specific macronutrient content for each meal
+- Established separate mobile client using React Native to provide user multiple options to interact with our application
 
-  _Multiplayer game that helps develop mental math acuity_
-  - Utilized Firebase Realtime Database to improve user social experience
-  - Integrated Material UI with React to provide a more responsive UI
-  - Strengthened app security and saved user session information through Firebase Anonymous Authentication
-</details>
+### [quikmath](http://bit.do/quikmath)
 
-<details>
-  <summary>
-    ### [WAYN](http://wayn-greenfield.herokuapp.com)
-  </summary>
-  ![wayn event page](./wayn.png "Where Are You Now event creation page")
+![quikmath game](./quikmath.png "quikmath game in progress")
 
-  _Provides location, commute, and arrival time of invitees to a created event_
-  - Leveraged Google Maps API to provide highly accurate location data
-  - Combined React Router and Twilio’s SMS service for instant notification and unique views
-  - Maintained a RESTful backend with Node.js and Express to improve information flow, scalability, and organization
-</details>
+_Multiplayer game that helps develop mental math acuity_
+- Utilized Firebase Realtime Database to improve user social experience
+- Integrated Material UI with React to provide a more responsive UI
+- Strengthened app security and saved user session information through Firebase Anonymous Authentication
 
-<details>
-  <summary>
-    ### [safe.ly](https://www.expo.io/@rvcwhitworth/safely)
-  </summary>
-  ![safely location page](./safely.png "safe.ly location screen")
+### [WAYN](http://wayn-greenfield.herokuapp.com)
 
-  _Automates contact notification when arriving to a destination_
-  - Created frontend with React Native to take advantage of Android and iOS libraries
-  - Provided instant text notifications with the Twilio API
-  - Hosted through AWS to provide users with fast and dependable connections
-</details>
+![wayn event page](./wayn.png "Where Are You Now event creation page")
+
+_Provides location, commute, and arrival time of invitees to a created event_
+- Leveraged Google Maps API to provide highly accurate location data
+- Combined React Router and Twilio’s SMS service for instant notification and unique views
+- Maintained a RESTful backend with Node.js and Express to improve information flow, scalability, and organization
+
+### [safe.ly](https://www.expo.io/@rvcwhitworth/safely)
+
+![safely location page](./safely.png "safe.ly location screen")
+
+_Automates contact notification when arriving to a destination_
+- Created frontend with React Native to take advantage of Android and iOS libraries
+- Provided instant text notifications with the Twilio API
+- Hosted through AWS to provide users with fast and dependable connections
 
 ### Connect with me
 [LinkedIn](https://www.linkedin.com/in/ryanvwhitworth)
